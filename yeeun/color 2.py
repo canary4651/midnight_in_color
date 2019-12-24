@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
-
+# 프로젝트 다시 시작
 # https://inyl.github.io/programming/2017/07/31/opencv_image_color_cluster.html 참고!!!
 
 # 1) 이미지 파일을 image 라는 파일로 읽어오기 (현재 파일에 있는 사진 불러오기)
